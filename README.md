@@ -15,3 +15,10 @@ Jump: Space
 Hold Walls: Z
 
 Dash: X
+
+![image](https://user-images.githubusercontent.com/42530687/116472801-5f986f00-a844-11eb-9959-8a7643b7a2d9.png)
+
+
+
+![image](https://user-images.githubusercontent.com/42530687/116472902-7fc82e00-a844-11eb-8203-a95a644837b9.png)
+
